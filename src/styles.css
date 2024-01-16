@@ -1,0 +1,11 @@
+.container {
+    border: 3px solid blue;
+    height: 50vh;
+    width: 100vh;
+}
+
+#draggable_box_1 {
+    border: 3px solid orange;
+    width: 200px;
+    padding: 20px
+}
